@@ -155,10 +155,3 @@ $ docker run --name redis -p 6379:6379 -d redis
 $ mvn clean install
 $ mvn spring-boot:run
 ```
-
----
-### Docker Image Location
-
-```
-https://hub.docker.com/repository/docker/noyandocker/ratelimiter/general
-```
