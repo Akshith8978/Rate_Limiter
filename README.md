@@ -162,26 +162,3 @@ $ mvn spring-boot:run
 ```
 https://hub.docker.com/repository/docker/noyandocker/ratelimiter/general
 ```
-
----
-### Screenshots
-
-<details>
-<summary>Click here to show the screenshots of project</summary>
-    <p> Figure 1 </p>
-    <img src ="screenshots/docker1.PNG">
-    <p> Figure 2 </p>
-    <img src ="screenshots/1.PNG">
-    <p> Figure 3 </p>
-    <img src ="screenshots/2.PNG">
-    <p> Figure 4 </p>
-    <img src ="screenshots/3.PNG">
-    <p> Figure 5 </p>
-    <img src ="screenshots/4.PNG">
-    <p> Figure 6 </p>
-    <img src ="screenshots/5.PNG">
-    <p> Figure 7 </p>
-    <img src ="screenshots/6.PNG">
-    <p> Figure 8 </p>
-    <img src ="screenshots/docker2.PNG">
-</details>
